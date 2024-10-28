@@ -1,3 +1,3 @@
-const myarray=["apple","mango","pineapple"]
-const my =myarray.map((mnp=>mnp.toUpperCase()))
+const myarray=["Apple","Mango","Pineapple"]
+const my =myarray.map((mnp=>mnp.toLowerCase()))
 console.log(my) 
